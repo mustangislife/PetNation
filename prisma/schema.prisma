@@ -33,18 +33,3 @@ model Pet {
   updatedAt DateTime @updatedAt
   createdAt DateTime @default(now())
 }
-
-// Using same database for 2 projects
-model EventoEvent {
-  id            Int      @id @default(autoincrement())
-  name          String
-  slug          String   @unique
-  city          String
-  location      String
-  date          DateTime
-  organizerName String
-  imageUrl      String
-  description   String
-  createdAt     DateTime @default(now())
-  updatedAt     DateTime @updatedAt
-}
