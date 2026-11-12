@@ -8,7 +8,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "bytegrad.com",
+        hostname: "i.postimg.cc",
       },
     ],
   },
