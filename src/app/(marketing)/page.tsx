@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="bg-[#5DC9A8] min-h-screen flex flex-col xl:flex-row items-center justify-center gap-10">
       <Image
-        src="https://bytegrad.com/course-assets/react-nextjs/petnation-preview.png"
+        src="https://i.postimg.cc/fLWN9qcr/petnation-preview.png"
         alt="Preview of PetNation"
         width={519}
         height={472}

@@ -1,2 +1,2 @@
 export const DEFAULT_PET_IMAGE =
-  "https://bytegrad.com/course-assets/react-nextjs/pet-placeholder.png";
+  "https://i.postimg.cc/Vvd5jk9w/pet-placeholder.png";
